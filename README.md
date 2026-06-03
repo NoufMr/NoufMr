@@ -1,4 +1,4 @@
-# Hi there, I'm Nouf Al-Salimi! 👋
+# Hi there, I'm Nouf Alharbi 👋
 
 ### 🚀 Data & AI Engineer | Technical Services Specialist
 I am a results-driven IT graduate and Technical Services Specialist with a strong foundation in Data Engineering and Intelligent Process Automation (IPA)[cite: 1]. I specialize in designing robust data pipelines, cloud data warehousing (Snowflake & Azure), and building human-in-the-loop AI automation systems to optimize efficiency and drive data-backed decisions[cite: 1].
